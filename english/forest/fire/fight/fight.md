@@ -20,3 +20,5 @@ Do you think
 [or do you go for another hunt into the forest?](forest/forest.md)
 
 [or do you hear a sound](sound/sound.md)
+
+[or, inspired by the thought of mead, create your own mead?](mead/mead.md)
